@@ -46,7 +46,7 @@
    ![085508inoopvf4qvdryol4](zotero配置及使用.assets/085508inoopvf4qvdryol4.png)
 
 3. 双击后打开的对话框中输入，原本输入框里面会自带一个**==[]==**,将其删掉就行。
-   {   "name":"Sci-Hub",   "method":"GET",   "url":"http://sci-hub.ren/{doi}",   "mode":"html",   "selector":"#pdf",   "attribute":"src",   "automatic":true }
+   `{   "name":"Sci-Hub",   "method":"GET",   "url":"http://sci-hub.ren/{doi}",   "mode":"html",   "selector":"#pdf",   "attribute":"src",   "automatic":true }`
    即可使用Sci-Hub作为源进行文献自动下载
    
 4. ![image-20211029142955401](zotero配置及使用.assets/image-20211029142955401.png)
@@ -78,3 +78,24 @@
 
 
 ![image-20211104091252704](zotero配置及使用.assets/image-20211104091252704.png)
+
+## 安装批量改文献语言为en的插件
+
+改插件解决的是中英文混排时，`等和et al`不能混合使用的问题，如果在引用时，英文文献的作者超过三个时，就会以`等`结尾，而不是`et al`，所以需要将`zotero`中的该文献语言改成`en`。
+
+插件的位置为`zotero插件->delitemwithatt.xpi`
+
+<img src="zotero配置及使用.assets/image-20220102094646845.png" alt="image-20220102094646845" style="zoom:50%;" />
+
+右键点击选中的文献，将语言设置为en，即可批量改语言为en。
+
+## 自动填充影响因子的插件
+
+影响因子的位置在`版权`里面填充
+
+<img src="zotero配置及使用.assets/image-20220102095222741.png" alt="image-20220102095222741" style="zoom:67%;" />
+
+<img src="zotero配置及使用.assets/image-20220102095333707.png" alt="image-20220102095333707" style="zoom:50%;" />
+
+
+

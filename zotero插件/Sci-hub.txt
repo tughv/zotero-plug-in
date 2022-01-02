@@ -1,0 +1,14 @@
+搜索：
+extensions.zotero.findPDFs.resolvers
+
+将下面的复制到对话框：
+
+{
+    "name":"Sci-Hub",
+    "method":"GET",
+    "url":"https://sci-hub.ren/{doi}",
+    "mode":"html",
+    "selector":"#pdf",
+    "attribute":"src",
+    "automatic":true
+}

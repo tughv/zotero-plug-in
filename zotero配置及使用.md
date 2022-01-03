@@ -97,5 +97,13 @@
 
 <img src="zotero配置及使用.assets/image-20220102095333707.png" alt="image-20220102095333707" style="zoom:50%;" />
 
+### 选择中英文混排的`csl`
+
+将该文件夹`style`里面的的文件复制到zotero数据库的`style`文件夹里面，重启`zotero`
+
+，即可在样式里面看到添加的引文格式。
+
+
+
 
 

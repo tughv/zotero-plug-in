@@ -113,9 +113,19 @@ use subfolder defined by 是重新保存pdf的规则。
 
 
 
+### 笔记软件typora
+
+- 安装文件夹里面的typora安装程序
+- 运行mdRegrester.reg，这样就可以右键新建markdown file
+- typora的使用教程[参考博客](https://blog.csdn.net/mus123/article/details/104294246)
 
 
 
+### 茉莉花插件
+
+安装插件`jasminum-v0.1.2.xpi`，该插件是一个对中文文献起到功能增强的插件，当将知网下载的pdf拖到zotero里面，他能够帮你自动提取里面的关键信息并建立分类，能够将中文名合并。
+
+![image-20220104195405966](zotero配置及使用.assets/image-20220104195405966.png)
 
 #### zotero_beta的quicklook失效解决办法在`Zoteroquicklok_for_beta`文件夹里面
 

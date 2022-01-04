@@ -10,7 +10,7 @@
 
 左边是软件的下载链接，右边是插件下载快捷键，跟着完成即可。
 
-对于谷歌浏览器，zotero connector无法连接到插件的商店，需要使用离线安装的办法将插件安装到浏览器里面，
+对于谷歌浏览器，zotero connector无法连接到插件的商店，需要使用离线安装的办法将插件安装到浏览器里面，离线插件`zotero connector`里面的zotero-connector.crx。谷歌浏览器的插件安装方法百度。
 
 对于edge和firforx，点击**Install xxx connector**就会跳转到应用商店下载。
 

@@ -69,6 +69,16 @@
 
 ## zotfile插件的安装与quicklook插件的安装步骤完全一致
 
+zotefile插件的作用是能够自动重命名pdf
+
+![image-20220104193647975](zotero配置及使用.assets/image-20220104193647975.png)
+
+![image-20220104193800947](zotero配置及使用.assets/image-20220104193800947.png)
+
+`custom location`可以选择一个文件夹按照zotero里面的目录结构保存pdf
+
+use subfolder defined by 是重新保存pdf的规则。
+
 ## zotero更改视图
 
 编辑->首选项->引用文字处理软件，勾选**使用添加引用的经典对话框**
@@ -76,8 +86,6 @@
 ![image-20211029144016165](zotero配置及使用.assets/image-20211029144016165.png)
 
 
-
-![image-20211104091252704](zotero配置及使用.assets/image-20211104091252704.png)
 
 ## 安装批量改文献语言为en的插件
 
@@ -102,6 +110,14 @@
 将该文件夹`style`里面的的文件复制到zotero数据库的`style`文件夹里面，重启`zotero`
 
 ，即可在样式里面看到添加的引文格式。
+
+
+
+
+
+
+
+#### zotero_beta的quicklook失效解决办法在`Zoteroquicklok_for_beta`文件夹里面
 
 
 

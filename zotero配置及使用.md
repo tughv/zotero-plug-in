@@ -33,6 +33,23 @@
 
 5. 里面的密码是坚果云里面应用密码，账号为坚果云账号
 
+### zotero更改数据保存位置
+
+因为zotero的数据和zotero的安装位置是分开的，而且数据默认的保存位置在c盘，对于c盘数据不够大的小伙伴应该希望能够更改数据保存位置。
+
+`编辑-首选项-高级-文件和文件夹`
+
+![image-20220104200032473](zotero配置及使用.assets/image-20220104200032473.png)
+
+点击选择，软件重启，即可更在数据保存的位置。
+
+### word里面没有zotero选项解决办法
+
+1. 如果word版本太老需要安装较新的版本
+2. `编辑-首选项-引用-文字处理软件`
+
+![image-20220104200346733](zotero配置及使用.assets/image-20220104200346733.png)
+
 ## zotero配置scihub
 
 [参考链接](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1237319)
@@ -85,8 +102,6 @@ use subfolder defined by 是重新保存pdf的规则。
 
 ![image-20211029144016165](zotero配置及使用.assets/image-20211029144016165.png)
 
-
-
 ## 安装批量改文献语言为en的插件
 
 改插件解决的是中英文混排时，`等和et al`不能混合使用的问题，如果在引用时，英文文献的作者超过三个时，就会以`等`结尾，而不是`et al`，所以需要将`zotero`中的该文献语言改成`en`。
@@ -111,15 +126,11 @@ use subfolder defined by 是重新保存pdf的规则。
 
 ，即可在样式里面看到添加的引文格式。
 
-
-
 ### 笔记软件typora
 
 - 安装文件夹里面的typora安装程序
 - 运行mdRegrester.reg，这样就可以右键新建markdown file
 - typora的使用教程[参考博客](https://blog.csdn.net/mus123/article/details/104294246)
-
-
 
 ### 茉莉花插件
 

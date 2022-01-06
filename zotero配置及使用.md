@@ -138,6 +138,20 @@ use subfolder defined by 是重新保存pdf的规则。
 
 ![image-20220104195405966](zotero配置及使用.assets/image-20220104195405966.png)
 
+
+
+### [提取word里面的所有引用文献网站](https://rintze.zelle.me/ref-extractor/)
+
+1. 点击选择文件，写人作文自己要提取的word，==注意：提交的word不能取消文献链接==
+
+![image-20220106164058390](zotero配置及使用.assets/image-20220106164058390.png)
+
+2.  选择要导出的引文格式
+
+![image-20220106164218836](zotero配置及使用.assets/image-20220106164218836.png)
+
+3. `Download`下载即可，然后在相关软件里面导入。
+
 #### zotero_beta的quicklook失效解决办法在`Zoteroquicklok_for_beta`文件夹里面
 
 

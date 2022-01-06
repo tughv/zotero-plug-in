@@ -138,7 +138,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 
 
-### [提取word里面的所有引用文献网站](https://rintze.zelle.me/ref-extractor/)
+### [提取word里面的所有引用文献的网站](https://rintze.zelle.me/ref-extractor/)
 
 1. 点击选择文件，写人作文自己要提取的word，==注意：提交的word不能取消文献链接==
 

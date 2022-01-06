@@ -6,7 +6,7 @@
 
 - 使用浏览器去[zotero网站](https://www.zotero.org/)配置插件
 
-![image-20210701172607641](zotero配置及使用.assets\image-20210701172607641.png)
+![image-20210701172607641](zotero配置及使用.assets/image-20210701172607641.png)
 
 左边是软件的下载链接，右边是插件下载快捷键，跟着完成即可。
 
@@ -23,13 +23,11 @@
 1. 注册一个坚果云账号
 2. 在账户信息右边的安全选项里面添加应用
 
-![image-20210701172837530](zotero配置及使用.assets\image-20210701172837530.png)
+![image-20210701172837530](zotero配置及使用.assets/image-20210701172837530.png)
 
 3. 注册一个zotero账号
 
 4. 在zotero软件 编辑-首选项里面登录zotero账号，在文件同步里面选择webDAV
-
-   <img src="zotero配置及使用.assets\image-20210701173211003.png" alt="image-20210701173211003" style="zoom:50%;" />
 
 5. 里面的密码是坚果云里面应用密码，账号为坚果云账号
 

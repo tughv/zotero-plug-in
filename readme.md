@@ -157,7 +157,7 @@ use subfolder defined by 是重新保存pdf的规则。
 ![image-20220113220307296](readme.assets/image-20220113220307296.png)
 
 1. 将`E:\zoteroFile`下面的storage剪切到`onedrive`所在的文件夹
-2. 使用命令`mklink /j  "软连接所在文件" "真正的文件所在的位置"`，即可将`zoteroFile`里面的storage指向`onedrive`里面的`storage`，`zoteroFile`里面只是一个链接文件，真正的文件在`onedrive`里面
+2. 用管理员身份打开`cmd`，使用命令`mklink /j  "软连接所在文件" "真正的文件所在的位置"`，即可将`zoteroFile`里面的storage指向`onedrive`里面的`storage`，`zoteroFile`里面只是一个链接文件，真正的文件在`onedrive`里面。软连接所在的文件夹就是在这里建立一个快捷链接，点击这个快捷链接就相当于到文件夹所在的真正位置而不用去打开文件的真正位置
 
 ![image-20220113220526520](readme.assets/image-20220113220526520.png)
 

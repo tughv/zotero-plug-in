@@ -152,7 +152,14 @@ use subfolder defined by 是重新保存pdf的规则。
 
 #### zotero_beta的quicklook失效解决办法在`Zoteroquicklok_for_beta`文件夹里面
 
+### zotero利用onedrive同步
 
+![image-20220113220307296](readme.assets/image-20220113220307296.png)
 
+1. 将`E:\zoteroFile`下面的storage剪切到`onedrive`所在的文件夹
+2. 使用命令`mklink /j  "软连接所在文件" "真正的文件所在的位置"`，即可将`zoteroFile`里面的storage指向`onedrive`里面的`storage`，`zoteroFile`里面只是一个链接文件，真正的文件在`onedrive`里面
 
+![image-20220113220526520](readme.assets/image-20220113220526520.png)
+
+3. 如果使用了`zotfile`自定义了文件夹，那么只需要像上面那样将zotfile的文件夹剪切到云盘，再在本地建立软连接
 

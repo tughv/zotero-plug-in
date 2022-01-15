@@ -1,3 +1,7 @@
+[zotero使用教程1](https://www.bilibili.com/video/BV1eY41187ft?from=search&seid=16982179123616172064&spm_id_from=333.337.0.0)
+
+[zotero使用教程2](https://www.bilibili.com/video/BV1ZE411p7qT/?spm_id_from=333.788.recommend_more_video.1)
+
 ## zotero的插件安装及功能教程
 
 软件安装好会自动添加到word里面,如果没有安装word，去[上海理工大学信息化办公室](https://net.usst.edu.cn/)下载（注：只有连接上理校园网才能激活），里面有详细的安装和激活步骤，或者自己找破解版。

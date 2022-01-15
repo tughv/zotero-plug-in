@@ -40,7 +40,7 @@
 3. 在zotero软件 编辑-首选项里面登录zotero账号，在文件同步里面选择webDAV
 4. 里面的密码是坚果云里面应用密码，账号为坚果云账号
 
-### 3. zotero更改数据保存位置
+## 3. zotero更改数据保存位置
 
 因为zotero的数据和zotero的安装位置是分开的，而且数据默认的保存位置在c盘，对于c盘数据不够大的小伙伴应该希望能够更改数据保存位置。
 
@@ -50,14 +50,14 @@
 
 点击选择，软件重启，即可更在数据保存的位置。
 
-### 3. word里面没有zotero选项解决办法
+## 4. word里面没有zotero选项解决办法
 
 1. 如果word版本太老需要安装较新的版本
 2. `编辑-首选项-引用-文字处理软件`
 
 ![image-20220104200346733](zotero配置及使用.assets/image-20220104200346733.png)
 
-## 4. zotero配置scihub
+## 5. zotero配置scihub
 
 [参考链接](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1237319)
 
@@ -78,21 +78,23 @@
 
 对于一些无法开放获取的文献，右键->找到可用的PDF，软件就会到scihub上查找并下载，如果失败，就需要自己去下载然后拖入对应的目录。
 
-## 5. zotero配置quicklook
+## 6. zotero配置quicklook
 
 该软件的功能是在不打开文件的情况下快速预览，敲击空格键就可以预览内容，再敲击空格键就可关闭。
 
-需要先安装**quicklook.msi**的软件
+1. 需要先安装**quicklook.msi**的软件
 
 ![image-20211029142559735](zotero配置及使用.assets/image-20211029142559735.png)
 
-#### 		在zotero里面安装插件
+2. 在zotero里面安装插件
 
 <img src="zotero配置及使用.assets/image-20211029142624983.png" alt="image-20211029142624983" style="zoom:67%;" />
 
 然后找到**quicklook**的插件文件，点击即可，该软件可以通过敲击**空格键**快速预览内容而不用打开文件，节省时间。
 
-## 6. zotfile插件的安装与quicklook插件的安装步骤完全一致
+==zotero_beta版本的quicklook失效解决办法在`Zoteroquicklok_for_beta`文件夹里面==
+
+## 7. zotfile插件的安装与quicklook插件的安装步骤完全一致
 
 zotefile插件的作用是能够自动重命名pdf
 
@@ -104,7 +106,7 @@ zotefile插件的作用是能够自动重命名pdf
 
 use subfolder defined by 是重新保存pdf的规则。
 
-## 7. zotero更改视图
+## 8. zotero更改视图
 
 编辑->首选项->引用文字处理软件，勾选**使用添加引用的经典对话框**
 
@@ -112,7 +114,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 ![image-20211029144016165](zotero配置及使用.assets/image-20211029144016165.png)
 
-## 8. 安装批量改文献语言为en的插件
+## 9. 安装批量改文献语言为en的插件
 
 改插件解决的是中英文混排时，`等和et al`不能混合使用的问题，如果在引用时，英文文献的作者超过三个时，就会以`等`结尾，而不是`et al`，所以需要将`zotero`中的该文献语言改成`en`。
 
@@ -122,7 +124,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 右键点击选中的文献，将语言设置为en，即可批量改语言为en。
 
-## 9. 自动填充影响因子的插件
+## 10. 自动填充影响因子的插件
 
 安装zotero IF.xpi插件，就可以在右键里面看到影响因子的功能，影响因子的位置在`版权`里面填充
 
@@ -130,19 +132,19 @@ use subfolder defined by 是重新保存pdf的规则。
 
 <img src="zotero配置及使用.assets/image-20220102095333707.png" alt="image-20220102095333707" style="zoom:50%;" />
 
-### 10. 选择中英文混排的`csl`
+## 11. 选择中英文混排的`csl`
 
 将该文件夹`style`里面的的文件复制到zotero数据库的`style`文件夹里面，重启`zotero`
 
 ，即可在样式里面看到添加的引文格式。
 
-### 11. 笔记软件typora
+## 12. 笔记软件typora
 
 - 安装文件夹里面的typora安装程序
 - 运行mdRegrester.reg，这样就可以右键新建`markdown file`
 - typora的使用教程[参考博客](https://blog.csdn.net/mus123/article/details/104294246)
 
-### 12. 茉莉花插件
+## 13. 茉莉花插件
 
 安装插件`jasminum-v0.1.2.xpi`，该插件是一个对中文文献起到功能增强的插件，当将知网下载的pdf拖到zotero里面，他能够帮你自动提取里面的关键信息并建立分类，能够将中文名合并。
 
@@ -150,7 +152,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 
 
-### [提取word里面的所有引用文献的网站](https://rintze.zelle.me/ref-extractor/)
+## 14. [提取word里面的所有引用文献的网站](https://rintze.zelle.me/ref-extractor/)
 
 1. 点击选择文件，写人作文自己要提取的word，==注意：提交的word不能取消文献链接==
 
@@ -162,9 +164,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 3. `Download`下载即可，然后在相关软件里面导入。
 
-#### zotero_beta的quicklook失效解决办法在`Zoteroquicklok_for_beta`文件夹里面
-
-### 13. zotero利用onedrive同步
+## 15 . zotero利用onedrive同步
 
 1. 注册一个zotero账号，登陆，如下勾选。
 
@@ -185,3 +185,6 @@ use subfolder defined by 是重新保存pdf的规则。
 ==注==：两台电脑上的数据保存的盘符和路径最好保持一致，即自定义的数据存储路径在两台电脑上保持一致，这样使用`zotfile`自定义文件保存位置同步后不会出现找不到文件的问题。
 
 <img src="readme.assets/image-20220115115312105.png" alt="image-20220115115312105" style="zoom: 67%;" />
+
+
+

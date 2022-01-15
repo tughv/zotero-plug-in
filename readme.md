@@ -29,11 +29,12 @@
 
 ![image-20210701172837530](zotero配置及使用.assets/image-20210701172837530.png)
 
-3. 注册一个zotero账号
+3. 注册一个zotero账号，登陆，如下勾选。
 
-4. 在zotero软件 编辑-首选项里面登录zotero账号，在文件同步里面选择webDAV
 
-5. 里面的密码是坚果云里面应用密码，账号为坚果云账号
+
+3. 在zotero软件 编辑-首选项里面登录zotero账号，在文件同步里面选择webDAV
+4. 里面的密码是坚果云里面应用密码，账号为坚果云账号
 
 ### 3. zotero更改数据保存位置
 
@@ -161,7 +162,11 @@ use subfolder defined by 是重新保存pdf的规则。
 
 ### 13. zotero利用onedrive同步
 
-![image-20220113220307296](readme.assets/image-20220113220307296.png)
+1. 注册一个zotero账号，登陆，如下勾选。
+
+<img src="readme.assets/image-20220115115707732.png" alt="image-20220115115707732" style="zoom:67%;" />
+
+<img src="readme.assets/image-20220113220307296.png" alt="image-20220113220307296" style="zoom:67%;" />
 
 1. 将`E:\zoteroFile`下面的storage剪切到`onedrive`所在的文件夹
 2. 用管理员身份打开`cmd`，使用命令`mklink /j  "软连接所在文件" "真正的文件所在的位置"`，即可将`zoteroFile`里面的storage指向`onedrive`里面的`storage`，`zoteroFile`里面只是一个链接文件，真正的文件在`onedrive`里面。软连接所在的文件夹就是在这里建立一个快捷链接，点击这个快捷链接就相当于到文件夹所在的真正位置而不用去打开文件的真正位置。

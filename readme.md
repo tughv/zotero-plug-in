@@ -63,7 +63,7 @@
 
 2. 搜索findPDF，双击搜索结果
 
-   ![085508inoopvf4qvdryol4](zotero配置及使用.assets/085508inoopvf4qvdryol4.png)
+   <img src="zotero配置及使用.assets/085508inoopvf4qvdryol4.png" alt="085508inoopvf4qvdryol4" style="zoom:67%;" />
 
 3. 双击后打开的对话框中输入，原本输入框里面会自带一个**==[]==**,将其删掉就行。
    `{   "name":"Sci-Hub",   "method":"GET",   "url":"http://sci-hub.ren/{doi}",   "mode":"html",   "selector":"#pdf",   "attribute":"src",   "automatic":true }`
@@ -84,7 +84,7 @@
 
 #### 		在zotero里面安装插件
 
-![image-20211029142624983](zotero配置及使用.assets/image-20211029142624983.png)
+<img src="zotero配置及使用.assets/image-20211029142624983.png" alt="image-20211029142624983" style="zoom:67%;" />
 
 然后找到**quicklook**的插件文件，点击即可，该软件可以通过敲击**空格键**快速预览内容而不用打开文件，节省时间。
 
@@ -168,14 +168,15 @@ use subfolder defined by 是重新保存pdf的规则。
 
 <img src="readme.assets/image-20220113220307296.png" alt="image-20220113220307296" style="zoom:67%;" />
 
-1. 将`E:\zoteroFile`下面的storage剪切到`onedrive`所在的文件夹
-2. 用管理员身份打开`cmd`，使用命令`mklink /j  "软连接所在文件" "真正的文件所在的位置"`，即可将`zoteroFile`里面的storage指向`onedrive`里面的`storage`，`zoteroFile`里面只是一个链接文件，真正的文件在`onedrive`里面。软连接所在的文件夹就是在这里建立一个快捷链接，点击这个快捷链接就相当于到文件夹所在的真正位置而不用去打开文件的真正位置。
+2. 将`E:\zoteroFile`下面的storage剪切到`onedrive`所在的文件夹
+
+3. 用管理员身份打开`cmd`，使用命令`mklink /j  "软连接所在文件" "真正的文件所在的位置"`，即可将`zoteroFile`里面的storage指向`onedrive`里面的`storage`，`zoteroFile`里面只是一个链接文件，真正的文件在`onedrive`里面。软连接所在的文件夹就是在这里建立一个快捷链接，点击这个快捷链接就相当于到文件夹所在的真正位置而不用去打开文件的真正位置。
 
 ![image-20220113220526520](readme.assets/image-20220113220526520.png)
 
-3. 如果使用了`zotfile`自定义了文件夹，那么只需要像上面那样将zotfile的文件夹剪切到云盘，再在本地建立软连接
+4. 如果使用了`zotfile`自定义了文件夹，那么只需要像上面那样将zotfile的文件夹剪切到云盘，再在本地建立软连接
 
-4. 在另一台电脑上只需要将本地的这两个文件夹和云盘里面的文件夹建立软连接即可
+5. 在另一台电脑上只需要将本地的这两个文件夹和云盘里面的文件夹建立软连接即可
 
 ==注==：两台电脑上的数据保存的盘符和路径最好保持一致，即自定义的数据存储路径在两台电脑上保持一致，这样使用`zotfile`自定义文件保存位置同步后不会出现找不到文件的问题。
 

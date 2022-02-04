@@ -14,7 +14,7 @@
 
 在搜索框输入`cnki pdf download` 搜索
 
-![image-20220204224612570](知网下载硕博论文pdf.assets/image-20220204224612570.png)
+![image-20220204225241976](知网下载硕博论文pdf.assets/image-20220204225241976.png)
 
 点击安装
 

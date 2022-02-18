@@ -78,7 +78,7 @@
 
 对于一些无法开放获取的文献，右键->找到可用的PDF，软件就会到scihub上查找并下载，如果失败，就需要自己去下载然后拖入对应的目录。
 
-## 6. zotero配置quicklook
+## 6. zotero配置quicklook(zotero6该功能已经失效)
 
 该软件的功能是在不打开文件的情况下快速预览，敲击空格键就可以预览内容，再敲击空格键就可关闭。
 
@@ -100,7 +100,7 @@ zotefile插件的作用是能够自动重命名pdf
 
 ![image-20220104193647975](zotero配置及使用.assets/image-20220104193647975.png)
 
-![image-20220104193800947](zotero配置及使用.assets/image-20220104193800947.png)
+<img src="zotero配置及使用.assets/image-20220104193800947.png" alt="image-20220104193800947" style="zoom:67%;" />
 
 `custom location`可以选择一个文件夹按照zotero里面的目录结构保存pdf
 
@@ -112,7 +112,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 如果不勾选使用添加引用的静电对话框，在word里面引用文献的时候弹出的将是搜索框，可根据自己的喜好选择。
 
-![image-20211029144016165](zotero配置及使用.assets/image-20211029144016165.png)
+<img src="zotero配置及使用.assets/image-20211029144016165.png" alt="image-20211029144016165" style="zoom:50%;" />
 
 ## 9. 安装批量改文献语言为en的插件
 

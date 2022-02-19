@@ -170,7 +170,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 <img src="readme.assets/image-20220115115707732.png" alt="image-20220115115707732" style="zoom:67%;" />
 
-<img src="readme.assets/image-20220113220307296.png" alt="image-20220113220307296" style="zoom:67%;" />
+<img src="readme.assets/image-20220115115312105.png" alt="image-20220115115312105" style="zoom: 67%;" />
 
 2. 将`E:\zoteroFile`下面的storage剪切到`onedrive`所在的文件夹
 

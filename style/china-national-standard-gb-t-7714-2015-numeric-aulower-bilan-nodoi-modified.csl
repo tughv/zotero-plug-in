@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" delimiter-precedes-last="always" demote-non-dropping-particle="never" initialize-with=" " name-delimiter=", " names-delimiter=". " name-as-sort-order="all" sort-separator=" ">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
@@ -14,7 +14,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>The Chinese GB/T7714-2015 numeric style</summary>
-    <updated>2022-02-24T08:27:04+00:00</updated>
+    <updated>2022-02-24T11:07:22+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -186,7 +186,7 @@
         <text macro="editor" prefix=". "/>
         <choose>
           <if variable="container-title">
-            <text value="."/>
+            <text value=". "/>
             <text macro="container-author" suffix=". "/>
             <text variable="container-title" suffix=". " text-case="title"/>
             <text macro="serial-information" prefix=""/>

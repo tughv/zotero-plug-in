@@ -1,5 +1,7 @@
 [zotero基础配置](zotero基础配置.md)
 
+[zotero中英文混排](zotero中英文混排.md)
+
 [zotero使用小tips](zotero使用小tips.md)
 
 [zotero和obsidian联动，按照模板创建笔记](zotero-obsidian.md)

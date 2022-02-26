@@ -1,14 +1,14 @@
-[zotero基础配置](zotero基础配置.md)
+[zotero基础配置](notes/zotero基础配置.md)
 
-[zotero中英文混排](zotero中英文混排.md)
+[zotero中英文混排](notes/zotero中英文混排.md)
 
-[zotero使用小tips](zotero使用小tips.md)
+[zotero使用小tips](notes/zotero使用小tips.md)
 
-[zotero和obsidian联动，按照模板创建笔记](zotero-obsidian.md)
+[zotero和obsidian联动，按照模板创建笔记](notes/zotero-obsidian.md)
 
-[知网下载硕博论文pdf](知网下载硕博论文pdf.md)
+[知网下载硕博论文pdf](notes/知网下载硕博论文pdf.md)
 
-[zotero像endnote一样引用文献](zotero像endnote一样引用文献.md)
+[zotero像endnote一样引用文献](notes/zotero像endnote一样引用文献.md)
 
 1. [zotero配合quicker动作效率翻倍](https://getquicker.net/Sharedaction?code=4a4a903b-be9d-490f-560d-08d9eec3922c)
 2. [zotero配合quicker动作效率翻倍](https://getquicker.net/Sharedaction?code=3128dcf1-af70-4fd3-5631-08d9eec3922c)

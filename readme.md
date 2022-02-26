@@ -8,6 +8,8 @@
 
 [知网下载硕博论文pdf](notes/知网下载硕博论文pdf.md)
 
+[自定义style网站](https://editor.citationstyles.org/about/)
+
 [zotero像endnote一样引用文献](notes/zotero像endnote一样引用文献.md)
 
 1. [zotero配合quicker动作效率翻倍](https://getquicker.net/Sharedaction?code=4a4a903b-be9d-490f-560d-08d9eec3922c)

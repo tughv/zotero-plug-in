@@ -35,7 +35,7 @@
 
 3. 注册一个zotero账号，登陆，如下勾选。
 
-![image-20220115144608118](readme.assets/image-20220115144608118.png)
+![image-20220115144608118](zotero基础配置.assets/image-20220115144608118.png)
 
 3. 在zotero软件 编辑-首选项里面登录zotero账号，在文件同步里面选择webDAV
 4. 里面的密码是坚果云里面应用密码，账号为坚果云账号
@@ -170,21 +170,18 @@ use subfolder defined by 是重新保存pdf的规则。
 
 1. 注册一个zotero账号，登陆，如下勾选。
 
-<img src="readme.assets/image-20220115115707732.png" alt="image-20220115115707732" style="zoom:67%;" />
+<img src="zotero基础配置.assets/image-20220115115707732.png" alt="image-20220115115312105" style="zoom: 67%;" />
 
-<img src="readme.assets/image-20220115115312105.png" alt="image-20220115115312105" style="zoom: 67%;" />
+![image-20220115115312105](zotero基础配置.assets/image-20220115115312105.png)
 
 2. 将`E:\zoteroFile`下面的storage剪切到`onedrive`所在的文件夹
 
 3. 用管理员身份打开`cmd`，使用命令`mklink /j  "软连接所在文件" "真正的文件所在的位置"`，即可将`zoteroFile`里面的storage指向`onedrive`里面的`storage`，`zoteroFile`里面只是一个链接文件，真正的文件在`onedrive`里面。软连接所在的文件夹就是在这里建立一个快捷链接，点击这个快捷链接就相当于到文件夹所在的真正位置而不用去打开文件的真正位置。
 
-![image-20220113220526520](readme.assets/image-20220113220526520.png)
+<img src="zotero基础配置.assets/image-20220113220526520.png" alt="image-20220113220526520"  />如果使用了`zotfile`自定义了文件夹，那么只需要像上面那样将zotfile的文件夹剪切到云盘，再在本地建立软连接
 
-4. 如果使用了`zotfile`自定义了文件夹，那么只需要像上面那样将zotfile的文件夹剪切到云盘，再在本地建立软连接
-
-5. 在另一台电脑上只需要将本地的这两个文件夹和云盘里面的文件夹建立软连接即可
+4. 在另一台电脑上只需要将本地的这两个文件夹和云盘里面的文件夹建立软连接即可
 
 ==注==：两台电脑上的数据保存的盘符和路径最好保持一致，即自定义的数据存储路径在两台电脑上保持一致（如在第一台电脑上数据的保存位置为`D:\appData\zoteroFil`，那么第二台电脑上也应该使用此路径，因为zotfile在重命名后的pdf文件路径使用的是绝对位置，如果两台电脑的数据保存位置不一致会导致pdf找不到），这样使用`zotfile`自定义文件保存位置同步后不会出现找不到文件的问题。
 
-<img src="readme.assets/image-20220115115312105.png" alt="image-20220115115312105" style="zoom: 67%;" />
-
+![image-20220115115312105](zotero基础配置.assets/image-20220115115312105.png)

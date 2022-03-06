@@ -4,7 +4,7 @@
 
 2. 安装Better bibtex插件
 
-3. 安装[obsidian](https://obsidian.md)软件，选择obsidian保存数据的文件夹，在里面建立一个名为`Template folder`的文件夹，将`软件`文件夹里面的`Mdnotes Default Template.md`放到里面去。
+3. 安装[obsidian](https://obsidian.md)软件，选择obsidian保存数据的文件夹，在里面建立一个名为`Template folder`的文件夹，将[仓库](https://gitee.com/tughv/zotero-plug-in/tree/master)里面的`软件`文件夹里面的`Mdnotes Default Template.md`放到`Template folder`的文件夹里面去。
 
 4. 设置zotero里面的mdnotes参数
 

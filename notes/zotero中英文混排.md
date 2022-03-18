@@ -12,9 +12,9 @@
 
 将该[网址](https://gitee.com/tughv/zotero-plug-in)文件夹`style`里面的的文件复制到zotero数据库的`style`文件夹里面，重启`zotero`
 
-，即可在样式里面看到添加的引文格式，尝试使用一下这几个不同的格式就知道他们之间的区别了。
+，即可在样式里面看到添加的引文格式，尝试使用一下这几个不同的格式就知道他们之间的区别了，其中`china-national-standard-gb-t-7714-2015-numeric-aulower-bilan-nodoi-modified1`是中英文混排时比较好用的格式。
 
-- 查看zotero数据路的位置
+- 查看zotero数据的位置
 
 `编辑-首选项-高级-文件和文件夹-数据存储位置`
 

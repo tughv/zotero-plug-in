@@ -17,3 +17,8 @@ Export directory为根据模板建立笔记的文件夹，Template folder为前�
 5. 使用时在条目上右键即会自动打开文件夹，保存即可。
 
 <img src="zotero-obsidian.assets/image-20220217184056850.png" alt="image-20220217184056850" style="zoom:50%;" />
+
+配合[quicker动作](https://getquicker.net/Sharedaction?code=2616bdab-c1f5-4387-db43-08d9f27e1fa6)可以实现zotero里面点击红框里面的链接能自动跳转到obsidian的笔记。
+
+![image-20220318153941149](zotero-obsidian.assets/image-20220318153941149.png)
+

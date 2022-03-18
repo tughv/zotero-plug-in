@@ -132,7 +132,7 @@ use subfolder defined by 是重新保存pdf的规则。
 
 ## 11. 自动填充影响因子的插件
 
-安装zotero IF.xpi插件，就可以在右键里面看到影响因子的功能，影响因子的位置在`版权`里面填充
+安装zotero IF.xpi插件，就可以在右键里面看到影响因子的功能，影响因子的位置在`版权`里面填充，最新版本的插件是填充到`索书号`里面。
 
 <img src="zotero配置及使用.assets/image-20220102095222741.png" alt="image-20220102095222741" style="zoom:67%;" />
 

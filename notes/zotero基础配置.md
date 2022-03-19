@@ -152,7 +152,13 @@ use subfolder defined by 是重新保存pdf的规则。
 
 ![image-20220104195405966](zotero配置及使用.assets/image-20220104195405966.png)
 
+茉莉花插件PDFtk报错的解决方法，如下：
 
+![image-20220319102940507](zotero基础配置.assets/image-20220319102940507.png)
+
+下载软件里面的`pdftk`安装，在zotero里面的首选项做如下配置，选择pdf安装目录下的bin目录。
+
+<img src="zotero基础配置.assets/image-20220319103120690.png" alt="image-20220319103120690" style="zoom:50%;" />
 
 ## 14. [提取word里面的所有引用文献的网站](https://rintze.zelle.me/ref-extractor/)
 

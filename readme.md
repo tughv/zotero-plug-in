@@ -1,5 +1,7 @@
 [zotero基础配置](notes/zotero基础配置.md)
 
+[茉莉花插件](notes/茉莉花插件.md)
+
 [zotero中英文混排](notes/zotero中英文混排.md)
 
 [zotero使用小tips](notes/zotero使用小tips.md)

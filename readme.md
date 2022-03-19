@@ -1,7 +1,5 @@
 [zotero基础配置](notes/zotero基础配置.md)
 
-[zotero_beta_quicklook](https://www.bilibili.com/read/cv15720656 )
-
 [茉莉花插件](notes/茉莉花插件.md)
 
 [插件失效了怎么办，如何自己下载插件](notes/如何自己下载插件.md)

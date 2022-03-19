@@ -2,6 +2,8 @@
 
 [茉莉花插件](notes/茉莉花插件.md)
 
+[插件失效了怎么办，如何自己下载插件](notes/如何自己下载插件.md)
+
 [zotero中英文混排](notes/zotero中英文混排.md)
 
 [zotero使用小tips](notes/zotero使用小tips.md)

@@ -8,7 +8,7 @@
 
 [zotero中英文混排](notes/zotero中英文混排.md)
 
-[zotero使用小tips](notes/zotero使用小tips.md)
+[zotero利用better BibTex引用文献](notes/zotero使用小tips.md)
 
 [zotero和obsidian联动，按照模板创建笔记](notes/zotero-obsidian.md)
 

@@ -23,5 +23,5 @@ zotero配合quicker使用：
 1. [zotero配合quicker动作效率翻倍](https://getquicker.net/Sharedaction?code=4a4a903b-be9d-490f-560d-08d9eec3922c)
 2. [zotero配合quicker动作效率翻倍](https://getquicker.net/Sharedaction?code=3128dcf1-af70-4fd3-5631-08d9eec3922c)
 3. [zotero配合quicker动作效率翻倍](https://getquicker.net/Sharedaction?code=fd3e105b-d423-437f-db42-08d9f27e1fa6)
-3. [zotero beta划词翻译](notes/zotero beta划词翻译.md)
+4. [zotero beta划词翻译](notes/zotero beta划词翻译.md)
 
